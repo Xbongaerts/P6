@@ -32,7 +32,8 @@ app.use((req, res, next) => {
 });
 
 //permet de protéger les en-têtes 
-app.use(cors());
+// app.use(cors());
+ app.use(helmet.crossOriginResourcePolicy({ policy: "cross-origin" }));
 
 //rend le corps des requêtes json (de tt types) => en objet JS utilisable -- anciennement body-parser
 app.use(express.json());
