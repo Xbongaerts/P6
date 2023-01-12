@@ -1,7 +1,7 @@
 Developpeur Web Openclassrooms
 Xavier Bongaerts
 
-Projet 6 - Construire une API sécurisée pour l'application d'avis gastronomiques So Pekocko
+Projet 6 - Construire une API sécurisée pour l'application d'avis gastronomiques Piiquante
 
 Contexte du projet
 
