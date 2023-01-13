@@ -1,4 +1,4 @@
-////////// contient de l'application //////////
+////////// contenu de l'application //////////
 
 //importations
 require('dotenv').config(); //charge les variables d'environnement
